@@ -22,7 +22,7 @@ Inspired by the above comment by [Brad Hodson](https://www.producthunt.com/@brad
 * [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/) - You'll often hear about the CAP theorem which specifies some kind of an upper limit when designing distributed systems. This introductory tutorial explains the concept by comparing it with a real world situation.
 * [How to dance the OAuth: a step-by-step lesson](https://medium.freecodecamp.org/how-to-dance-the-oauth-a-step-by-step-lesson-fd2364d89742) - An easy guide for understanding the key concepts of OAuth 2.0
 
-## Contributing
+## Contributing nicely
 
 - **[[Request an Explanation!](https://github.com/swapagarwal/awesome-eli5/issues/new)]**
 - **[[Submit a Link!](https://github.com/swapagarwal/awesome-eli5/issues/new)]**
